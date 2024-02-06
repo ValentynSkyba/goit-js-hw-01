@@ -3,7 +3,7 @@
 //  const totalPrice = orderedQuantity * pricePerItem;
 //  return totalPrice;}
 
-"use strick"
+"use strict"
 
 function makeTransaction(quantity, pricePerDroid) {
     const totalPrice = quantity * pricePerDroid;
